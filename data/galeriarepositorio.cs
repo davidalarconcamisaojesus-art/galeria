@@ -9,6 +9,6 @@ public class galeriarepositorio
 
     static galeriarepositorio()
     {
-        imagens.Add(new Imagem{ texto= "https://blog.cobasi.com.br/beija-flor/"});
+        imagens.Add(new Imagem{ texto="descriçao da imagem",UrlIMG= "https://blog.cobasi.com.br/beija-flor/"});
     }
 }
